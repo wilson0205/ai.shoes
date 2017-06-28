@@ -1,8 +1,10 @@
 ---
 title: About AI.shoes
 permalink: "/about/"
-layout: page
 tags: about
+layout: page
 ---
 
-Copyright 2016 AI.shoes℠. All rights reserved.
+Artificial Intelligence Blog.
+
+Copyright 2017 AI.shoes℠. All rights reserved.
